@@ -1,0 +1,19 @@
+canvas {
+    display: inline;
+}
+
+body {
+	height: fit-content;
+}
+
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+h1, p {
+	font-family: monospace;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
